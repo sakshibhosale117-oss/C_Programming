@@ -1,5 +1,15 @@
-//Program to print 5 times "Marvellous" on screen
 #include<stdio.h>
+
+//////////////////////////////////////////////////////////
+//
+//  Function name : Display
+//  input         : -
+//  output        : Character
+//  Description   : Display Marvellous 5 times 
+//  date          : 21/10/2026
+//  Author        : Sakshi Tatyaso Bhosale
+//
+//////////////////////////////////////////////////////////
 
 void Display()
 {
