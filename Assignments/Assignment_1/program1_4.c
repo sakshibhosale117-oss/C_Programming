@@ -1,5 +1,15 @@
-//Accept one number and check whether it is divisible by 5 or not
 #include<stdio.h>
+
+//////////////////////////////////////////////////////////
+//
+//  Function name : Check
+//  input         : Integer
+//  output        : Boolean (TRUE or FALSE)
+//  Description   : Checks whether the number is divisible by 5
+//  date          : 21/10/2026
+//  Author        : Sakshi Tatyaso Bhosale
+//
+//////////////////////////////////////////////////////////
 
 typedef int BOOL;
 #define TRUE 1
