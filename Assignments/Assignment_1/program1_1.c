@@ -1,5 +1,15 @@
-//program to devide two numbers
 #include<stdio.h>
+
+//////////////////////////////////////////////////////////
+//
+//  Function name : Divide
+//  input         : Integer , Integer
+//  output        : Integer
+//  Description   : Performs division
+//  date          : 21/10/2026
+//  Author        : Sakshi Tatyaso Bhosale
+//
+//////////////////////////////////////////////////////////
 
 int Divide(int iNo1, int iNo2)
 {
