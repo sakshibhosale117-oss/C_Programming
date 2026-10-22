@@ -1,0 +1,38 @@
+#include<stdio.h>
+
+//////////////////////////////////////////////////////////
+//
+//  Function name : PrintEven
+//  input         : Integer 
+//  output        : Integer
+//  Description   : Performs even 
+//  date          : 22/10/2026
+//  Author        : Sakshi Tatyaso Bhosale
+//
+//////////////////////////////////////////////////////////
+
+void PrintEven(int iNo)
+{
+    int iCnt = 0;
+
+    if(iNo < 0)
+    {
+        iNo = -iNo;
+    }
+    for(iCnt = 1; iCnt <= iNo; iCnt++)
+    {
+        printf("%d\t",iCnt * 2);
+    }
+}
+
+int main()
+{
+    int iValue = 0;
+
+    printf("Enter Number :");
+    scanf("%d",&iValue);
+
+    PrintEven(iValue);
+
+    return 0;
+}
