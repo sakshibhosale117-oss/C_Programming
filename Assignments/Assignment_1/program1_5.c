@@ -1,5 +1,15 @@
-//accept one number from user and print that number of * on screen.
 #include<stdio.h>
+
+//////////////////////////////////////////////////////////
+//
+//  Function name : Accept
+//  input         : Integer
+//  output        : Nothing (void)
+//  Description   : Prints the given number of * on screen
+//  date          : 21/10/2026
+//  Author        : Sakshi Tatyaso Bhosale
+//
+//////////////////////////////////////////////////////////
 
 void Accept(int iNo)
 {
