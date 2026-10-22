@@ -1,5 +1,15 @@
-//Program to print 5 to 1 numbers on screen.
 #include<stdio.h>
+
+//////////////////////////////////////////////////////////
+//
+//  Function name : Display
+//  input         : -
+//  output        : Integer
+//  Description   : Print 5 to 1 numbers on screen
+//  date          : 21/10/2026
+//  Author        : Sakshi Tatyaso Bhosale
+//
+//////////////////////////////////////////////////////////
 
 void Display()
 {
