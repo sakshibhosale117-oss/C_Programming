@@ -3,10 +3,10 @@
 
 //////////////////////////////////////////////////////////
 //
-//  Function name : CheckTriangle
-//  Input         : Three Integers
+//  Function name : CalculateBonus
+//  Input         : Float Integers
 //  Output        : Nothing (void)
-//  Description   : Check Triangle is valid or not 
+//  Description   : Calculate bonus based on salary and age
 //  Date          : 25/10/2026
 //  Author        : Sakshi Tatyaso Bhosale
 //
